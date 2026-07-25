@@ -1,1 +1,1 @@
-
+This is a live proprietary e-commerce platform, where both the customer-facing website and the admin backend panel were tested. This platform was also tested while my time Australian IT Center/GTech Solutions working in a professional environment with QA and Dev teams. Created and executed 230+ test cases and with 15+ bugs reported. I also created test plans for both admin and user sides.
