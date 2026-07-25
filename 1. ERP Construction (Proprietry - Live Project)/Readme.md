@@ -1,1 +1,2 @@
-
+This is a live proprietary ERP construction management system. I tested this system while my time at Australian IT Center/GTech Solutions. I created test cases and bug report for this project while collaborating with the QA and Development teams in a professional environment. There are more than 950+ test cases with defect log containing over 150+ bugs.
+All Modules including Employees, Attendance, Payroll, Leave Management, Roster, Sites and Projects, and Safety and Compliance, etc were tested with bugs recorded and reported.
